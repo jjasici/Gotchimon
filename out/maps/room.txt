@@ -1,0 +1,10 @@
+bor1 bor1 bor1 bor1 bor1 bor1 bor1 bor1 bor1 bor1
+bor1 wlt1 wnt1 dtl1 dtm1 dtr1 wlt1 wnt1 wlt1 bor1
+bor1 wlb1 wnb1 dbl1 dbm1 dbr1 wlb1 wnb1 wlb1 bor1
+bor1 flr0 flr0 flr0 flr0 flr0 flr0 flr0 flr0 bor1
+bor1 flr0 flr0 flr0 flr0 flr0 flr0 flr0 flr0 bor1
+bor1 flr0 flr0 flr0 flr0 flr0 flr0 flr0 flr0 bor1
+bor1 flr0 flr0 flr0 flr0 flr0 flr0 flr0 flr0 bor1
+bor1 flr0 flr0 flr0 flr0 flr0 flr0 flr0 flr0 bor1
+bor1 flr0 flr0 flr0 flr0 flr0 flr0 flr0 flr0 bor1
+bor1 bor1 bor1 bor1 bor1 bor1 bor1 bor1 bor1 bor1
